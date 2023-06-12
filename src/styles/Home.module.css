@@ -1,0 +1,58 @@
+
+/* introduction */
+
+.introduction{
+    font-size: 1rem;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 3%;
+    border-bottom: 2px solid #69d117;
+    width: 90%;
+}
+
+/* Error container */
+
+.error_container{
+  margin-top: 5%;
+}
+
+
+
+
+/* Cards */
+
+.Card_img_costume{
+height: 200px; 
+  object-fit: contain;
+  cursor: pointer;
+}
+.Card_img_costume:hover{
+opacity: 0.9;
+}
+
+
+.Card_body{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.Card_body p{
+ margin-bottom: 0;
+ font-size: 0.8rem;
+}
+
+
+
+.inp_btn_wrap button{
+ padding: 0%;
+  width: 50%;
+}
+
+.Card_input{
+  height: 70%;
+  width: 25%;
+}
+
+.custom_flex_wrap{
+ justify-content: center;
+}

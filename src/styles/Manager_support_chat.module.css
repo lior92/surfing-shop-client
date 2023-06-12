@@ -1,0 +1,27 @@
+.messages_div {
+  padding-left: 0% !important;
+}
+
+.messages_div p {
+  margin: 2%;
+  margin-left: 0%;
+  color: green;
+}
+
+.text_field{
+  margin-top: 4%;
+}
+
+@media only screen and (max-width: 500px) {
+  .text_field {
+    display: flex;
+    flex-direction: column;
+  }
+  .text_field input {
+    padding: 10%;
+  }
+  .text_field button {
+    margin-top: 5%;
+    width: 100%;
+  }
+}

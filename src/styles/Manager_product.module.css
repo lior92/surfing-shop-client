@@ -1,0 +1,40 @@
+
+
+.product_main{
+display: flex;
+flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+
+
+.product_main img{
+margin-right: 5%;
+margin-left: 4%;
+width: 200px;
+}
+
+
+
+.product_main form{
+margin-right: 5%;
+margin-left: 4%;
+}
+.product_main form input{
+font-size: 0.8rem;
+}
+.product_main form textarea{
+font-size: 0.8rem;
+}
+
+
+.remove_btn{
+margin: 4%;
+}
+.modify_btn{
+  margin: 4%;
+}
+

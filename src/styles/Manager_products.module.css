@@ -1,0 +1,52 @@
+
+.products_main{
+    margin: 0 auto;
+    margin-bottom: 4%;
+}
+
+.form_container input{
+margin-top: 3%;
+}
+.form_container textarea{
+margin-top: 3%;
+}
+
+
+
+.display_input_results{
+    display: flex;
+    flex-wrap: wrap;
+ justify-content: center;
+ /* width: 100%; */
+
+}
+
+
+.card img{
+    height: 120px; 
+    object-fit: contain;
+    cursor: pointer;
+    padding: 3%;
+}
+.card_body{
+    padding: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card_body div{
+    font-size: 1rem;
+
+}
+
+.card_body p{
+   font-size: 0.8rem;
+   margin: 3% 0 3% 0;
+}
+
+/* Form */
+
+.addBtn{
+    margin-top:3%;
+    padding-bottom:3%;
+}

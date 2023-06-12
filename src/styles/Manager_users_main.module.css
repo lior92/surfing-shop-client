@@ -1,0 +1,18 @@
+
+
+.manager_users_main{
+   margin: 5%;
+   text-align: center;
+}
+
+.manager_users_main ul{
+   font-size: 0.8rem;
+}
+
+.modify_form {
+   margin-bottom: 30%;
+}
+.modify_form label{
+   padding-top: 5%;
+   margin-bottom: 1%;
+}

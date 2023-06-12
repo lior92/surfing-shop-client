@@ -1,0 +1,9 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.nav button{
+    margin-left: 2%;
+    margin-right: 2%;
+}

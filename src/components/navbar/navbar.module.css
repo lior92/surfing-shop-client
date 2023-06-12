@@ -1,0 +1,162 @@
+/* Main component */
+
+.nav_bar_container {
+  background-image: url("../../images/clyde-thomas-8plz1xK_Wmk-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.top_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: end;
+  height: 300px;
+}
+
+/* Logged in and out */
+
+.logged_in_out {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.9rem;
+  padding-right: 5%;
+  padding-left: 5%;
+  margin-top: -50px;
+}
+
+.logged_in_out .login{
+  color: rgb(95, 95, 95);
+  font-weight: 700;
+  text-decoration: none;
+}
+.logged_in_out .login:hover{
+  color: rgb(83, 83, 83);
+}
+.logged_in_out .register{
+  color: rgb(95, 95, 95);
+  font-weight: 700;
+  text-decoration: none;
+}
+.logged_in_out .register:hover{
+  color: rgb(83, 83, 83);
+}
+
+.logged_in_out .user_name {
+  color: rgb(95, 95, 95);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.logged_in_out .user_name:hover {
+  color: rgb(83, 83, 83);
+}
+
+.logged_in_out .log_out {
+  font-weight: 700;
+  text-align: end;
+  color: rgb(95, 95, 95);
+  text-decoration: none;
+}
+.logged_in_out .log_out:hover {
+  color: rgb(83, 83, 83);
+}
+
+/* .logged_in_out .log_out:hover {
+  color: #f83b3b;
+} */
+
+/* Input group */
+
+.input_group_wrapper {
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+/* Auto complete (ul) values */
+
+ul {
+  position: absolute;
+  z-index: 999;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.auto_complete li {
+  padding: 10px;
+  background-color: #aae7ec;
+}
+
+.auto_complete li:hover {
+  background-color: #b3e9ee;
+}
+
+.auto_complete a {
+  text-decoration: none;
+  color: #020202;
+}
+.auto_complete a:hover {
+  text-decoration: none;
+  text-shadow: 1px 1px 1px rgb(27, 27, 27);
+  color: #1aa3f3;
+}
+
+/* Navbar with directions */
+
+.navbar_custom {
+  background-color: #00b1c1;
+
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  justify-content: space-between;
+}
+
+.container{
+margin-left: 2%;
+}
+
+.navbar_brand_custom {
+  /* font-size: 26px; */
+  color: rgb(235, 219, 213);
+
+}
+.navbar_brand_custom:hover {
+  color: rgb(255, 255, 255);
+}
+
+
+
+.nav a{
+color: rgb(213, 235, 235);
+}
+.nav a:hover{
+color: rgb(255, 255, 255);
+
+}
+
+
+
+
+
+
+/* Toggle button */
+.navbar_toggle_custom {
+  font-size: 10px;
+
+}
+
+
+/* cart */
+.cart_notification {
+  background-color: red;
+  color: white;
+  font-size: 0.8rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 50%;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+}

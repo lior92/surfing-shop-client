@@ -1,0 +1,24 @@
+footer {
+font-size: 16px;
+  width: 100%;
+ margin-top: 10%;
+}
+
+footer h4{
+  font-size: 1.2rem;
+}
+
+.row div p,.row div li{
+margin-bottom: 2%;
+padding: 1%;
+}
+
+.facebook{
+  color: #1877f2;
+}
+.twitter{
+  color: #1d9bf0
+}
+.instagram{
+  color: #e91e63;
+}

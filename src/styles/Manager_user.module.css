@@ -1,0 +1,13 @@
+
+.edit_form{
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 5%;
+    margin-top: 4%;
+}
+.edit_form button{
+    margin: 6%;
+}
+.edit_form div{
+    text-align: left;
+}
