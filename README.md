@@ -36,27 +36,27 @@ Here are some screenshots of the project in action:
 
 ### User
 
-#### Cart
+## Cart
 
 ![Screenshot 4](./screenshots/shot4.png)
 
-#### Orders
+## Orders
 
 ![Screenshot 5](./screenshots/shot5.png)
 
-#### Team support
+## Team support
 
 ![Screenshot 6](./screenshots/shot6.png)
 
-#### Blog
+## Blog
 
 ![Screenshot 7](./screenshots/shot7.png)
 
-#### User Detail
+## User Detail
 
 ![Screenshot 3](./screenshots/shot3.png)
 
-### Manager
+## Manager
 
 ![Screenshot 9](./screenshots/shot9.png)
 
