@@ -34,5 +34,6 @@ To use this project, follow these steps:
 
 Here are some screenshots of the project in action:
 
-
+##Cart
+![Screenshot 2](./screenshots/shot4.png) 
 
