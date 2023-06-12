@@ -2,7 +2,9 @@
 
 Welcome to Surf Shop, your go-to online destination for all your surfing gear needs. This is a fake online shop created using React Vite, where you can explore and purchase a wide range of surfing gear and accessories.
 
-![Screenshot 2](./screenshots/shot2.png)
+<p align="center">
+  <img src="./screenshots/shot2.png" alt="Screenshot 2" width="300" style="margin-right: 20px">
+</p>
 
 ## About the Application
 
@@ -36,27 +38,29 @@ Here are some screenshots of the project in action:
 
 ### User
 
-## Cart
+#### Cart
 
-![Screenshot 4](./screenshots/shot4.png)
+<p align="center">
+  <img src="./screenshots/shot4.png" alt="Screenshot 4" width="250" style="margin-right: 20px">
+  <img src="./screenshots/shot5.png" alt="Screenshot 5" width="250" style="margin-right: 20px">
+  <img src="./screenshots/shot6.png" alt="Screenshot 6" width="250" style="margin-right: 20px">
+</p>
 
-## Orders
+#### Blog
 
-![Screenshot 5](./screenshots/shot5.png)
+<p align="center">
+  <img src="./screenshots/shot7.png" alt="Screenshot 7" width="250" style="margin-right: 20px">
+</p>
 
-## Team support
+#### User Detail
 
-![Screenshot 6](./screenshots/shot6.png)
+<p align="center">
+  <img src="./screenshots/shot3.png" alt="Screenshot 3" width="250" style="margin-right: 20px">
+</p>
 
-## Blog
+### Manager
 
-![Screenshot 7](./screenshots/shot7.png)
-
-## User Detail
-
-![Screenshot 3](./screenshots/shot3.png)
-
-## Manager
-
-![Screenshot 9](./screenshots/shot9.png)
+<p align="center">
+  <img src="./screenshots/shot9.png" alt="Screenshot 9" width="250" style="margin-right: 20px">
+</p>
 
