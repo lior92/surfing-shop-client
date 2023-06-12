@@ -15,6 +15,8 @@ Manager Account: With a manager account, you have administrative privileges that
 
 Editor Account: An editor account grants you access to specific pages where you can create and modify content. You can add new products, update product descriptions, and manage the overall content of the application.
 
+*To enhance the overall design and user interface, React Bootstrap was utilized in this project. 
+
 ##Backend Integration
 
 Surf Shop seamlessly integrates with a backend server to handle various functionalities. The application communicates with the server using requests to fetch product data, manage user authentication, and process orders. The backend server is responsible for handling these requests and interacting with the MongoDB database to store and retrieve relevant information.
@@ -34,6 +36,20 @@ To use this project, follow these steps:
 
 Here are some screenshots of the project in action:
 
+#User
+
 ##Cart
 ![Screenshot 2](./screenshots/shot4.png) 
+##Orders 
+![Screenshot 2](./screenshots/shot5.png) 
+##Team support
+![Screenshot 2](./screenshots/shot6.png) 
+##Blog
+![Screenshot 2](./screenshots/shot7.png) 
+##user Detail
+![Screenshot 2](./screenshots/shot3.png) 
+
+#Manager
+![Screenshot 2](./screenshots/shot9.png) 
+
 
