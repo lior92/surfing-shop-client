@@ -41,21 +41,31 @@ Here are some screenshots of the project in action:
 #### Cart
 
 <p align="center">
-  <img src="./screenshots/shot4.png" alt="Screenshot 4" width="250" style="margin-right: 20px">
-  <img src="./screenshots/shot5.png" alt="Screenshot 5" width="250" style="margin-right: 20px">
-  <img src="./screenshots/shot6.png" alt="Screenshot 6" width="250" style="margin-right: 20px">
+  <img src="./screenshots/shot4.png" alt="Screenshot 4" width="450" style="margin-right: 20px">
 </p>
 
 #### Blog
 
 <p align="center">
-  <img src="./screenshots/shot7.png" alt="Screenshot 7" width="250" style="margin-right: 20px">
+  <img src="./screenshots/shot7.png" alt="Screenshot 7" width="450" style="margin-right: 20px">
 </p>
 
 #### User Detail
 
 <p align="center">
-  <img src="./screenshots/shot3.png" alt="Screenshot 3" width="250" style="margin-right: 20px">
+  <img src="./screenshots/shot3.png" alt="Screenshot 3" width="450" style="margin-right: 20px">
+</p>
+
+#### User Orders
+
+<p align="center">
+  <img src="./screenshots/shot5.png" alt="Screenshot 3" width="450" style="margin-right: 20px">
+</p>
+
+##### Support
+
+<p align="center">
+  <img src="./screenshots/shot6.png" alt="Screenshot 3" width="450" style="margin-right: 20px">
 </p>
 
 ### Manager
