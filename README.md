@@ -3,7 +3,7 @@
 Welcome to Surf Shop, your go-to online destination for all your surfing gear needs. This is a fake online shop created using React Vite, where you can explore and purchase a wide range of surfing gear and accessories.
 
 <p align="center">
-  <img src="./screenshots/shot2.png" alt="Screenshot 2" width="300" style="margin-right: 20px">
+  <img src="./screenshots/shot2.png" alt="Screenshot 2" width="700" style="margin-right: 20px">
 </p>
 
 ## About the Application
@@ -71,6 +71,6 @@ Here are some screenshots of the project in action:
 ### Manager
 
 <p align="center">
-  <img src="./screenshots/shot9.png" alt="Screenshot 9" width="250" style="margin-right: 20px">
+  <img src="./screenshots/shot9.png" alt="Screenshot 9" width="450" style="margin-right: 20px">
 </p>
 
