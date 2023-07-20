@@ -1,5 +1,7 @@
 # My Project
 
+# Project Live site: https://surfing-project.surge.sh/
+
 Welcome to Surf Shop, your go-to online destination for all your surfing gear needs. This is a fake online shop created using React Vite, where you can explore and purchase a wide range of surfing gear and accessories.
 
 <p align="center">
