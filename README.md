@@ -13,8 +13,8 @@ Surf Shop is a web application that simulates an online shop experience for surf
 In addition to the regular user experience, Surf Shop also offers advanced functionality for authorized users:
 
 - **Manager Account**: With a manager account, you have administrative privileges that allow you to control users, manage orders, and perform various administrative tasks. You can view and edit user profiles, delete users, update product inventory, and handle order management.
-- 
-- **For an admin username and email, send me a private message**
+  
+- *For an admin username and email, send me a private message*
 
 - **Editor Account**: An editor account grants you access to specific pages where you can create and modify content. You can add new products, update product descriptions, and manage the overall content of the application.
 
